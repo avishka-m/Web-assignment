@@ -16,7 +16,7 @@
 .nav-bar{
     padding: 2rem 0;
     max-width: 95%;
-    margin: 0 auto ;
+    margin: 0 auto;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -24,6 +24,7 @@
 .nav-elements{
     display: flex;
     gap: 2rem;
+    font-weight: bolder;
 }
 .nav-elements li{
     list-style: none;
